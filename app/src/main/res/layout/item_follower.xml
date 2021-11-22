@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginTop="15dp"
+    android:layout_marginStart="15dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:id="@+id/iv_myprofile"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/myprofile"/>
+    <TextView
+        android:id="@+id/tv_name"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:textColor="#5b5b5b"
+        app:layout_constraintTop_toBottomOf="@id/iv_myprofile"
+        android:layout_marginTop="5dp"
+        app:layout_constraintStart_toStartOf="@id/iv_myprofile"
+        app:layout_constraintEnd_toEndOf="@id/iv_myprofile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="침착맨"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

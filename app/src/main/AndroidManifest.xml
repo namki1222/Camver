@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rightcode.camver">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".PayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.CampingCarDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.HomeHeaderActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.CampingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.HomeSearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.FindPwdOkActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.FindPwdActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.FindIdOkActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Dialog.OneminuteDialog"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".Activity.FindIdActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.IntroActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

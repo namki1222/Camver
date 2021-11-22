@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.3723076923076923" />
+        <entry key="app/src/main/res/drawable-v24/border_3c7be5_background_white_corner_20.xml" value="0.19814814814814816" />
+        <entry key="app/src/main/res/drawable-v24/border_c9c9c9_background_white_corner_20.xml" value="0.19814814814814816" />
+        <entry key="app/src/main/res/drawable-v24/button_select.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable-v24/color_black_text.xml" value="0.5927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/color_fafafa_background_e0e0e0_border_corner_10.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable-v24/color_no_color_text.xml" value="0.5927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/color_white_background_top_corner_20.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable-v24/filter_select.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable-v24/selector_app_color_#3c7be5.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/selector_app_color_border_white_border.xml" value="0.38385416666666666" />
+        <entry key="app/src/main/res/drawable-v24/selector_app_color_white.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/drawable-v24/sort_check_on_off.xml" value="0.4875" />
+        <entry key="app/src/main/res/drawable-v24/star_on_off_select.xml" value="0.4875" />
+        <entry key="app/src/main/res/drawable-v24/text_filter_select.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable-v24/text_select.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable-v24/text_select_1.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable-v24/text_select_background.xml" value="0.5927083333333333" />
+        <entry key="app/src/main/res/drawable-v24/text_sort_select.xml" value="0.4875" />
+        <entry key="app/src/main/res/drawable/app_color_background_corner_5.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/drawable/color_#f2f4f8_background_corner_=.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_96bdfd_background_corner_10.xml" value="0.41333333333333333" />
+        <entry key="app/src/main/res/drawable/color_96bdfd_background_corner_13.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_f2f2f2_background_border_96bdfd_corner_10.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_f2f2f2_background_corner_10.xml" value="0.41333333333333333" />
+        <entry key="app/src/main/res/drawable/color_f2f2f2_background_corner_13.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_f2f4f8_background_corner_8.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_f9f9f9_background_corner_13.xml" value="0.38385416666666666" />
+        <entry key="app/src/main/res/drawable/color_fbf9f9_background_797979_border_corner_5.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_fcfcfc_border_f2f2f2_corner_13.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_gray_background_corner_13.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_white_background_border_f1f1f1_corner_10.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_white_background_border_f2f2f2_corner_10.xml" value="0.3296875" />
+        <entry key="app/src/main/res/drawable/color_white_background_corner_10.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/color_white_background_corner_5.xml" value="0.33240740740740743" />
+        <entry key="app/src/main/res/drawable/comfirm_button.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/menu_1.xml" value="0.246875" />
+        <entry key="app/src/main/res/drawable/no_color_background_corner_10.xml" value="0.41333333333333333" />
+        <entry key="app/src/main/res/layout/activity_camping.xml" value="0.45666991236611487" />
+        <entry key="app/src/main/res/layout/activity_camping_car.xml" value="0.36640625" />
+        <entry key="app/src/main/res/layout/activity_camping_car_detail.xml" value="0.3528591352859135" />
+        <entry key="app/src/main/res/layout/activity_camping_detail.xml" value="0.3094769956744003" />
+        <entry key="app/src/main/res/layout/activity_find_id.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_find_id_ok.xml" value="0.5523255813953488" />
+        <entry key="app/src/main/res/layout/activity_find_pwd.xml" value="0.3088768115942029" />
+        <entry key="app/src/main/res/layout/activity_find_pwd_ok.xml" value="0.3088768115942029" />
+        <entry key="app/src/main/res/layout/activity_home_search.xml" value="0.4407960199004975" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.33061594202898553" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/activity_pay.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/dialog_common.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/dialog_common_text.xml" value="0.38315217391304346" />
+        <entry key="app/src/main/res/layout/dialog_custom_filter.xml" value="0.2755208333333333" />
+        <entry key="app/src/main/res/layout/dialog_date_picker.xml" value="0.2571428571428571" />
+        <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/dialog_one_minute.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/layout/dialog_option.xml" value="0.6622023809523809" />
+        <entry key="app/src/main/res/layout/dialog_people_count.xml" value="0.2755208333333333" />
+        <entry key="app/src/main/res/layout/dialog_people_filter.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dialog_sort_filter.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/fragment_detail_1.xml" value="0.2755208333333333" />
+        <entry key="app/src/main/res/layout/fragment_detail_2.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/fragment_detail_3.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/fragment_menu_1.xml" value="0.26145833333333335" />
+        <entry key="app/src/main/res/layout/fragment_menu_2.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_menu_3.xml" value="0.38832252085264135" />
+        <entry key="app/src/main/res/layout/fragment_menu_4.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/fragment_menu_5.xml" value="0.40199637023593465" />
+        <entry key="app/src/main/res/layout/fragment_top.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/item_camping_list.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/item_date.xml" value="0.3" />
+        <entry key="app/src/main/res/layout/item_empty_date.xml" value="0.2755208333333333" />
+        <entry key="app/src/main/res/layout/item_header_camping.xml" value="0.3380208333333333" />
+        <entry key="app/src/main/res/layout/item_home_pick_1.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/item_home_pick_2.xml" value="0.3197463768115942" />
+        <entry key="app/src/main/res/layout/item_home_pick_3.xml" value="0.3197463768115942" />
+        <entry key="app/src/main/res/layout/item_list_camping.xml" value="0.3380208333333333" />
+        <entry key="app/src/main/res/layout/item_list_follower.xml" value="0.2755208333333333" />
+        <entry key="app/src/main/res/layout/item_list_home_advertise.xml" value="0.35054347826086957" />
+        <entry key="app/src/main/res/layout/item_list_home_pick.xml" value="0.26145833333333335" />
+        <entry key="app/src/main/res/layout/item_list_home_rv_header_0.xml" value="0.3197463768115942" />
+        <entry key="app/src/main/res/layout/item_list_home_viewpager.xml" value="0.3499308437067773" />
+        <entry key="app/src/main/res/layout/item_list_rv_list_1.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/item_spinner.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/layout/item_viewpage_image.xml" value="0.35599505562422745" />
+        <entry key="app/src/main/res/layout/list_item_club.xml" value="0.2755208333333333" />
+        <entry key="app/src/main/res/layout/list_item_market.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/list_item_option.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/list_item_pay.xml" value="0.41041666666666665" />
+        <entry key="app/src/main/res/layout/list_item_sort.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/text_select.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/menu/bottom_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

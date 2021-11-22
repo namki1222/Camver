@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_1"
+        android:icon="@drawable/menu_1_off"
+        android:title="화면 1" />
+    <item
+        android:id="@+id/navigation_2"
+        android:icon="@drawable/menu_2_off"
+        android:title="화면 2" />
+    <item
+        android:id="@+id/navigation_3"
+        android:icon="@drawable/menu_3_off"
+        android:title="화면 3" />
+    <item
+        android:id="@+id/navigation_4"
+        android:icon="@drawable/menu_4_off"
+        android:title="화면 3" />
+    <item
+        android:id="@+id/navigation_5"
+        android:icon="@drawable/menu_5_off"
+        android:title="화면 3" />
+</menu>

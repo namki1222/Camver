@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:background="@color/white"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintBottom_toTopOf="@id/tv_start"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.FindPwdOkActivity">
+    <TextView
+        android:layout_marginTop="60dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="비밀번호 찾기"
+    android:textColor="@color/app_color"
+    android:textSize="20dp"
+    android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="기존 비밀번호는 저희도 알지 못합니다.\n새로운 비밀번호를 설정해주세요!"
+        android:textColor="@color/black"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="11dp"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:text="비밀번호"/>
+    <EditText
+        android:inputType="textPassword"
+        android:id="@+id/et_pwd"
+        android:textSize="13dp"
+        android:textColorHint="@color/hint_color"
+        android:hint="8~16자리 영문 대소문자, 숫자, 특수문자 중 3가지 이상"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingStart="17dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/color_fcfcfc_border_f2f2f2_corner_13"/>
+    <EditText
+        android:inputType="textPassword"
+        android:id="@+id/et_pwd_check"
+        android:layout_marginBottom="27dp"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp"
+        android:textColorHint="@color/hint_color"
+        android:hint="비밀번호 확인"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingStart="17dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/color_fcfcfc_border_f2f2f2_corner_13"/>
+
+</LinearLayout>
+    <TextView
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/tv_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:background="@drawable/comfirm_button"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="완료"
+        android:textColor="@color/white" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

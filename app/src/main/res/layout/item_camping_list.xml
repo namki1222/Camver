@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="15dp">
+    <ImageView
+        android:id="@+id/iv_thumnail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="@drawable/no_color_background_corner_10"
+        android:src="@drawable/hompick_example_1"/>
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_adress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#6b6b6b"
+            android:textStyle="bold"
+            android:text="논현동"/>
+        <ImageView
+            android:id="@+id/iv_star1"
+            android:layout_marginStart="7dp"
+            android:layout_width="12dp"
+            android:layout_marginEnd="1dp"
+            android:layout_height="12dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/star_on_off_select"/>
+        <TextView
+            android:layout_marginStart="2dp"
+            android:id="@+id/tv_average"
+            android:textSize="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4.0"/>
+        <TextView
+            android:layout_marginStart="5dp"
+            android:id="@+id/tv_total_review"
+            android:textSize="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(500)"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="[1박2일] 갬성뿜뿜 FULL 패키지 떠나자 차박~!"/>
+    <TextView
+        android:id="@+id/tv_memo"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#6b6b6b"
+        android:text="온 가족들을 위한 갬성 캠핑카"/>
+    <TextView
+        android:id="@+id/tv_price"
+        android:layout_gravity="end"
+        android:layout_marginTop="7dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="360,000원"/>
+</LinearLayout>
+</layout>
